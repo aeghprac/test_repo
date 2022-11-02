@@ -3,3 +3,4 @@ here's an adition
 I am going to try and pull this down again into my local editor. Sometimes it's pretty hard to remember all of these commands.
   I think it's going to be git pull, or maybe git checkout then git pull.
 Yep, it was just git pull.
+Try to remember it's "git commit -a -m "message here"
