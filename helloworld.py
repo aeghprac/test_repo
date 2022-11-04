@@ -1,6 +1,6 @@
-def hw():
-    print('Hello World')
+def shout(word):
+    """Stupid function that just prints out a word with exclamation points. Have fun."""
+    shout_word = word + '!!!'
+    print(shout_word)
 
-hw()
-
-hw()
+shout('Fuck')
